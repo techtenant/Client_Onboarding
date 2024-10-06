@@ -45,3 +45,4 @@ C:\Users\v-brianadams\source\repos\ClientOboarding\ClientOboarding\bin\Debug\net
 C:\Users\v-brianadams\source\repos\ClientOboarding\ClientOboarding\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\v-brianadams\source\repos\ClientOboarding\ClientOboarding\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\v-brianadams\source\repos\ClientOboarding\ClientOboarding\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-brianadams\source\repos\ClientOboarding\ClientOboarding\obj\Debug\net8.0\ClientOboarding.sourcelink.json
